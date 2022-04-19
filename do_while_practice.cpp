@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//TO SQUARE INTEGERS IN A CERTAIN RANGE
+
 int main()
 {
     int one;
